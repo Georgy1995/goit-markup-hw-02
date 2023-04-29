@@ -97,7 +97,7 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 21px;
+  line-height: 1.7;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -110,4 +110,31 @@ button {
 }
 .first-item {
   background-color: #ffffff;
+}
+.page-footer {
+  background-color: #2e2f42;
+}
+.second-part-logo-footer {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.7;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #f4f4fd;
+}
+.second-part-logo-header {
+  font-family: "Raleway", sans-serif;
+  font-weight: 800;
+  font-size: 18px;
+  line-height: 1.7;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+
+  color: #2e2f42;
 }
