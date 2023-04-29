@@ -32,7 +32,7 @@ button {
   line-height: 24px;
   letter-spacing: 0.02em;
 
-  /* color: #f4f4fd; */
+  color: #f4f4fd;
 }
 .page-title {
   font-family: "Roboto", sans-serif;
@@ -42,7 +42,7 @@ button {
   text-align: center;
   letter-spacing: 0.02em;
 
-  /* color: #FFFFFF; */
+  color: #ffffff;
 }
 .subtitle {
   font-family: "Roboto", sans-serif;
@@ -118,7 +118,7 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.7;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
@@ -130,11 +130,21 @@ button {
   font-family: "Raleway", sans-serif;
   font-weight: 800;
   font-size: 18px;
-  line-height: 1.17;
+  line-height: 1.7;
   display: flex;
   align-items: center;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 
   color: #2e2f42;
+}
+body {
+  font-family: "Roboto", sans-serif;
+  color: #434455;
+  background-color: #ffffff;
+}
+.first-section {
+  background-color: #2e2f42;
+  line-height: 1.07;
+  color: #ffffff;
 }
