@@ -204,7 +204,7 @@ body {
 
   color: #434455;
 }
-.order-button {
+.main-button {
   font-family: inherit;
   font-size: 16px;
   font-weight: 500;
@@ -214,7 +214,7 @@ body {
   color: #ffffff;
   background-color: #4d5ae5;
 }
-.order-button :focus {
+.main-button :focus {
   color: #404bbf;
 }
 .address {
