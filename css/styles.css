@@ -16,6 +16,10 @@ button {
 .link {
   text-decoration: none;
 }
+.link:hover,
+link:focus {
+  color: #404bbf;
+}
 .contacts {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -38,7 +42,7 @@ button {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line-height: 60px;
+  line-height: 1.07;
   text-align: center;
   letter-spacing: 0.02em;
   background-color: #2e2f42;
@@ -194,4 +198,18 @@ body {
   letter-spacing: 0.02em;
 
   color: #434455;
+}
+.order-button {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+
+  color: #ffffff;
+  background-color: #4d5ae5;
+}
+.order-button:hover,
+:focus {
+  background-color: #404bbf;
 }
