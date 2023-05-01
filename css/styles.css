@@ -214,7 +214,10 @@ body {
   color: #4d5ae5;
   background-color: #f4f4fd;
 }
-.main-button:hover,
+.main-button:hover {
+  color: #ffffff;
+  background-color: #404bbf;
+}
 .main-button:focus {
   color: #ffffff;
   background-color: #404bbf;
