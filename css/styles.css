@@ -214,8 +214,7 @@ body {
   color: #ffffff;
   background-color: #4d5ae5;
 }
-.order-button:hover,
-:focus {
+.order-button :focus {
   color: #404bbf;
 }
 .address {
