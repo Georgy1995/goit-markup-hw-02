@@ -1,5 +1,5 @@
 :root {
-  font-family: "Roboto", sans-serif;
+  --body-color: #434455;
 }
 button {
   cursor: pointer;
@@ -152,7 +152,7 @@ button {
 }
 body {
   font-family: "Roboto", sans-serif;
-  color: #434455;
+  color: var(--body-color);
   background-color: #ffffff;
 }
 .address {
