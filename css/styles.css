@@ -216,7 +216,7 @@ body {
 }
 .order-button:hover,
 :focus {
-  background-color: #404bbf;
+  color: #404bbf;
 }
 .address {
   font-style: normal;
