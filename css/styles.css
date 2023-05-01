@@ -17,7 +17,7 @@ button {
   text-decoration: none;
 }
 .link:hover,
-link:focus {
+.link:focus {
   color: #404bbf;
 }
 .contacts {
@@ -30,7 +30,7 @@ link:focus {
   color: #434455;
 }
 .contacts:hover,
-contacts:focus {
+.contacts:focus {
   color: #404bbf;
 }
 .text-footer {
@@ -219,7 +219,4 @@ body {
 }
 .address {
   font-style: normal;
-}
-body {
-  font-family: "Roboto", sans-serif;
 }
