@@ -41,6 +41,7 @@ button {
   line-height: 60px;
   text-align: center;
   letter-spacing: 0.02em;
+  background-color: #2e2f42;
 
   color: #ffffff;
 }
@@ -145,4 +146,13 @@ body {
 }
 .address {
   font-style: normal;
+}
+.hidden-title {
+  visibility: hidden;
+}
+.first-section {
+  width: 1440px;
+  height: 600px;
+
+  background: #2e2f42;
 }
